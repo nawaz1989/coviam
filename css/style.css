@@ -1,0 +1,19 @@
+.cart-container{
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+.product{
+	padding-bottom: 10px;
+	text-align: center;
+}
+.product>div{
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+.cart-summary{
+	border-top: 1px solid #ddd;
+	padding: 10px;
+}
+.cart-item{
+	margin-bottom: 5px;
+}

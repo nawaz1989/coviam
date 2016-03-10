@@ -1,24 +1,32 @@
 [{
-	id: '1',
-	product_img: 'http://www.bigbasket.com/media/uploads/p/s/20000487_2-bb-royal-tamarindimli.jpg',
-	brand_name: 'BB Royal',
-	product_name: 'Tamrind',
-	detail: '500gm Pouch',
-	price: '68'
+	"id": "1",
+	"product_img": "http://www.bigbasket.com/media/uploads/p/s/20000487_2-bb-royal-tamarindimli.jpg",
+	"brand_name": "BB Royal",
+	"product_name": "Tamrind",
+	"detail": "500gm Pouch",
+	"price": "68"
 },
 {
-	id: '2',
-	product_img: 'http://www.bigbasket.com/media/uploads/p/s/20000487_2-bb-royal-tamarindimli.jpg',
-	brand_name: 'BB Royal',
-	product_name: 'Tamrind',
-	detail: '500gm Pouch',
-	price: '68'
+	"id": "2",
+	"product_img": "http://www.bigbasket.com/media/uploads/p/s/40018885_1-bb-royal-red-chillilal-mirch.jpg",
+	"brand_name": "BB Royal",
+	"product_name": "Red Chilli/Lal Mirch",
+	"detail": "500gm Pouch",
+	"price": "159"
 },
 {
-	id: '3',
-	product_img: 'http://www.bigbasket.com/media/uploads/p/s/20000487_2-bb-royal-tamarindimli.jpg',
-	brand_name: 'BB Royal',
-	product_name: 'Tamrind',
-	detail: '500gm Pouch',
-	price: '68'
-}]
+	"id": "3",
+	"product_img": "http://www.bigbasket.com/media/uploads/p/s/268012_1-everest-masala-garam.jpg",
+	"brand_name": "EVEREST",
+	"product_name": "Masala Garam",
+	"detail": "50gm Pouch",
+	"price": "39"
+},
+{
+	"id": "4",
+	"product_img": "http://www.bigbasket.com/media/uploads/p/s/100004183_1-everest-powder-green-coriander.jpg",
+	"brand_name": "EVEREST",
+	"product_name": "Powder - Green Coriander",
+	"detail": "200gm Pouch",
+	"price": "64"
+}]	
